@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="txtMainTitle">List of Contacts</string>
+    <string name="btnContact1">View Details</string>
+    <string name="btnContact2">View Details</string>
+    <string name="txtContact1">Phillip Clancy</string>
+    <string name="txtContact2">Rita Margot</string>
+    <string name="txtAddress1a">280 Street North 4th E.</string>
+    <string name="txtAddress1b">Miami, Florida 33175</string>
+    <string name="txtPhone1">(316) 983-7752</string>
+    <string name="txtAddress2a">998 Lynn Ave. N</string>
+    <string name="txtAddress2b">San Diego, California 92038</string>
+    <string name="txtPhone2">(916) 382-5620</string>
+</resources>
